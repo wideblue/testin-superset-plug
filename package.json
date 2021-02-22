@@ -1,7 +1,7 @@
 {
-  "name": "@superset-ui/plugin-chart-hello-world",
+  "name": "@superset-ui/plugin-chart-hello-Damjan",
   "version": "0.0.0",
-  "description": "Superset Chart - Hello World",
+  "description": "Superset Chart - Hello Damjan",
   "sideEffects": false,
   "main": "lib/index.js",
   "module": "esm/index.js",
@@ -11,7 +11,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/apache-superset/superset-ui.git"
+    "url": "git+https://github.com/wideblue/testin-superset-plugin.git"
   },
   "keywords": [
     "superset"
@@ -19,9 +19,9 @@
   "author": "Superset",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/apache-superset/superset-ui/issues"
+    "url": "https://github.com/wideblue/testin-superset-plugin.git/issues"
   },
-  "homepage": "https://github.com/apache-superset/superset-ui#readme",
+  "homepage": "https://github.com/wideblue/testin-superset-plugin.git#readme",
   "publishConfig": {
     "access": "public"
   },
