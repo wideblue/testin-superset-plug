@@ -9,7 +9,8 @@
     "esm",
     "lib",
     "types",
-    "src"
+    "src",
+    "tsconfig.json"
   ],
   "repository": {
     "type": "git",
